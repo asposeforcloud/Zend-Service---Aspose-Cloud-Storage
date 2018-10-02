@@ -1,0 +1,7 @@
+<phpunit bootstrap="Bootstrap.php" colors="true">
+    <testsuites>
+        <testsuite name="ZendService Aspose Cloud Storage Test Suite">
+            <directory>./ZendService</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
